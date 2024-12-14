@@ -11,26 +11,27 @@ Project is a web-based application for managing doctor appointments. It includes
 
 PHP Files:
 
-db.php - Database connection file.
-home.php - Home page.
-login.php - patients login page.
-registration.php - patients registration page.
-fp.php - Forgot password functionality.
-pdash.php - Patient dashboard.
-pedit.php - Edit patient profile.
-bookapp.php - Appointment booking.
-apph.php - Patient appointment history.
-noti.php - Patient notification 24 hours ago.
-cp.php - Patient Change password.
+<p><b>db.php - Database connection file.</b></p>
+<p><b>home.php - Home page.</b></p>
+<p><b>login.php - Patients login page.</b></p>
+<p><b>registration.php - Patients registration page.</b></p>
+<p><b>fp.php - Forgot password functionality.</b></p>
+<p><b>pdash.php - Patient dashboard.</b></p>
+<p><b>pedit.php - Edit patient profile.</b></p>
+<p><b>bookapp.php - Appointment booking.</b></p>
+<p><b>apph.php - Patient appointment history.</b></p>
+<p><b>noti.php - Patient notification 24 hours ago.</b></p>
+<p><b>cp.php - Patient Change password.</b></p>
 
-logout.php - Logout functionality.
+<p><b>logout.php - Logout functionality.</b></p>
 
-drdash.php - Doctor dashboard functionality.
-drlogin.php - Doctor login page.
-dedit.php - Edit doctor details.
-dpl.php - Handle patient appointment.
-dnoti.php - Doctor notification 24 hours ago.
-drchange.php - Doctor Change password.
+<p><b>drdash.php - Doctor dashboard functionality.</b></p>
+<p><b>drlogin.php - Doctor login page.</b></p>
+<p><b>dedit.php - Edit doctor details.</b></p>
+<p><b>dpl.php - Handle patient appointment.</b></p>
+<p><b>dnoti.php - Doctor notification 24 hours ago.</b></p>
+<p><b>drchange.php - Doctor Change password.</b></p>
+
 
 ## Directory Structure
 
