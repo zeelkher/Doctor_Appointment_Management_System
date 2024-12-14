@@ -2,16 +2,6 @@
 
 include_once 'db.php';
 
-// Validate Date of Birth for age 14+
-$dob = new DateTime($Patient_DOB);
-$today = new DateTime();
-$age = $today->diff($dob)->y;
-
-if ($age < 14) {
-    $errors['Patient_DOB'] = "You must be at least 14 years old.";
-}
-
-
 $Patient_FirstName = $Patient_MiddleName = $Patient_LastName = $Patient_Email = $Patient_Phone = '';
 $Patient_password = $Confirm_password = $Patient_DOB = $Patient_Marital_Status = $Patient_Gender = $Patient_Address = '';
 $security_question = $security_answer = '';
