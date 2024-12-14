@@ -22,9 +22,9 @@ PHP Files:
 <p><b>apph.php - Patient appointment history.</b></p>
 <p><b>noti.php - Patient notification 24 hours ago.</b></p>
 <p><b>cp.php - Patient Change password.</b></p>
-
+<br>
 <p><b>logout.php - Logout functionality.</b></p>
-
+<br>
 <p><b>drdash.php - Doctor dashboard functionality.</b></p>
 <p><b>drlogin.php - Doctor login page.</b></p>
 <p><b>dedit.php - Edit doctor details.</b></p>
