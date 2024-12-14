@@ -9,6 +9,29 @@ The Doctor Appointment Management System simplifies and enhances the process of 
 
 Project is a web-based application for managing doctor appointments. It includes functionalities for patients and doctors to manage profiles, book appointments, and view notifications.
 
+PHP Files:
+
+db.php - Database connection file.
+home.php - Home page.
+login.php - patients login page.
+registration.php - patients registration page.
+fp.php - Forgot password functionality.
+pdash.php - Patient dashboard.
+pedit.php - Edit patient profile.
+bookapp.php - Appointment booking.
+apph.php - Patient appointment history.
+noti.php - Patient notification 24 hours ago.
+cp.php - Patient Change password.
+
+logout.php - Logout functionality.
+
+drdash.php - Doctor dashboard functionality.
+drlogin.php - Doctor login page.
+dedit.php - Edit doctor details.
+dpl.php - Handle patient appointment.
+dnoti.php - Doctor notification 24 hours ago.
+drchange.php - Doctor Change password.
+
 ## Directory Structure
 
 ```bash
@@ -48,26 +71,3 @@ DAMS/
     ├── img2.jpg
     └── pdi.jpg
 ```
-
-PHP Source Files:
-
-db.php - Database connection file.
-home.php - Home page.
-login.php - patients login page.
-registration.php - patients registration page.
-fp.php - Forgot password functionality.
-pdash.php - Patient dashboard.
-pedit.php - Edit patient profile.
-bookapp.php - Appointment booking.
-apph.php - Patient appointment history.
-noti.php - Patient notification 24 hours ago.
-cp.php - Patient Change password.
-
-logout.php - Logout functionality.
-
-drdash.php - Doctor dashboard functionality.
-drlogin.php - Doctor login page.
-dedit.php - Edit doctor details.
-dpl.php - Handle patient appointment.
-dnoti.php - Doctor notification 24 hours ago.
-drchange.php - Doctor Change password.
