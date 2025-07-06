@@ -89,15 +89,20 @@ DAMS/
 ├── registration.php
 ├── README.md
 ├── databasefile/
-│ └── damsdb.sql
+│   └── damsdb.sql
 ├── dp/
-│ ├── default.png
-│ ├── 1.jpg … 6.jpeg
+│   ├── default.png
+│   ├── 1.jpg
+│   ├── 2.jpeg
+│   ├── 3.jpeg
+│   ├── 4.jpeg
+│   ├── 5.jpeg
+│   └── 6.jpeg
 └── img/
-├── back-img.jpg
-├── dr.jpeg
-├── img2.jpg
-└── pdi.jpg
+    ├── back-img.jpg
+    ├── dr.jpeg
+    ├── img2.jpg
+    └── pdi.jpg
 
 ---
 
