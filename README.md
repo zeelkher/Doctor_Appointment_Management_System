@@ -66,6 +66,7 @@ The system is designed to be responsive and user-friendly for desktop and mobile
 
 ---
 
+<!-- 
 ## 📁 Project Structure
 
 DAMS/
@@ -103,6 +104,7 @@ DAMS/
     ├── dr.jpeg
     ├── img2.jpg
     └── pdi.jpg
+-->
 
 ---
 
